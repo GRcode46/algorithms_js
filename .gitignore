@@ -1,0 +1,6 @@
+*.pdf
+.DS_Store
+texts*
+.vscode
+.idea
+.run
